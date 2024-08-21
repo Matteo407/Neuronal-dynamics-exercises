@@ -1,6 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:C:/Users/matte/OneDrive - unive.it/Unive/z - Neuroscience/Neuronal dynamics notebooks/media/videos/Neuronal dynamics notebooks/720p30/partial_movie_files/PhasePlane/3159541981_2268332985_1841596700.mp4'
-file 'file:C:/Users/matte/OneDrive - unive.it/Unive/z - Neuroscience/Neuronal dynamics notebooks/media/videos/Neuronal dynamics notebooks/720p30/partial_movie_files/PhasePlane/1565692467_2401694384_923345810.mp4'
-file 'file:C:/Users/matte/OneDrive - unive.it/Unive/z - Neuroscience/Neuronal dynamics notebooks/media/videos/Neuronal dynamics notebooks/720p30/partial_movie_files/PhasePlane/1565692467_4226557020_3410489565.mp4'
-file 'file:C:/Users/matte/OneDrive - unive.it/Unive/z - Neuroscience/Neuronal dynamics notebooks/media/videos/Neuronal dynamics notebooks/720p30/partial_movie_files/PhasePlane/1565692467_2919340033_2100142914.mp4'
-file 'file:C:/Users/matte/OneDrive - unive.it/Unive/z - Neuroscience/Neuronal dynamics notebooks/media/videos/Neuronal dynamics notebooks/720p30/partial_movie_files/PhasePlane/1565692467_784179552_1302828321.mp4'
